@@ -1,6 +1,6 @@
 # Bitcoin-Prediction
 
-Bitcoin-Stock-price-prediction-with-Time-series-FBprophet-
+Bitcoin-Stock-price-prediction-with-Time-series-FBprophet-OHLC
 Time Series Analysis in Python
 
 Goal is to predict the range of Bitcoin stock price till 2022.
