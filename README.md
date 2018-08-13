@@ -25,4 +25,5 @@ Make predictions and plot the forecast
 In the plot The black dots represent the actual values (notice how they stop at 2018), the blue line indicates the forecasted values, and the light blue shaded region is the uncertainty (always a critical part of any prediction). The region of uncertainty increases the further out in the future the prediction is made because initial uncertainty propagates and grows over time. This is observed in weather forecasts which get less accurate the further out in time they are made.
 
 Visuallize the predicted model
-Also Visualization in difftent time series to study trends
+Visualization in difftent time series to study trends
+finally visualization on OHLC candelstick plots for Stocks 
